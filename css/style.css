@@ -1,0 +1,53 @@
+@font-face {
+        font-family: 'UID_LETTER';
+        src: url('../fonts/UID-Deep-sea.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+    .grey-bg {
+
+        background-color: #dcdcdb;
+    }
+
+    p {
+        text-indent: 5rem;
+
+    }
+
+
+
+    h1 {
+        font-family: 'UID_LETTER', sans-serif;
+        color: #384b9a;
+        font-size: 7vh;
+    }
+
+    h2,
+
+    h4,
+    h5 {
+        font-family: 'Prompt', sans-serif;
+        color: #414040;
+    }
+
+    h3,
+    h6 {
+        font-family: 'Prompt', sans-serif;
+        color: #384b9a;
+
+    }
+
+    .padding-b {
+        padding-top: 10%;
+    }
+
+    p {
+        font-family: 'Pridi', serif;
+        font-weight: 300;
+        /* กำหนดน้ำหนักฟอนต์เป็น 300 (Light) */
+    }
+    .white-text{
+        color: white;
+    }
